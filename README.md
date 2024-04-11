@@ -1,6 +1,8 @@
-## Hi there 
-### TEST
+## Hi, my dear guests 
+
 ![Header](https://github.com/fedorovamainann/fedorovamainann/blob/main/Презентация1.jpg)
+![Profile_views](https://github.com/fedorovamainann)/?username=fedorovamainann&color=ff69b4&style=for-the-badge)
+
 
 - 👋 Hi, I’m @fedorovamainann
 - 👀 I’m interested in ...
